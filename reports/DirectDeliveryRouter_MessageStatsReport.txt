@@ -1,0 +1,22 @@
+Message stats for scenario DirectDeliveryRouter
+sim_time: 86400.0000
+created: 30
+started: 20
+relayed: 20
+aborted: 0
+dropped: 26
+removed: 0
+delivered: 20
+directRelayed: 18
+delivery_prob: 0.6667
+response_prob: 0.0000
+overhead_ratio: 0.0000
+latency_avg: 9177.7500
+latency_med: 10272.0000
+hopcount_avg: 1.0000
+hopcount_med: 1
+buffertime_avg: 17970.6154
+buffertime_med: 17973.0000
+rtt_avg: NaN
+rtt_med: NaN
+newdeliveryProb: 0.9000
